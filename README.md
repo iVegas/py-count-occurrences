@@ -4,6 +4,7 @@
 
 ## Task Description
 
+
 You are required to implement the `count_occurrences` function that takes two parameters:
 
 1. **phrase**: A string in which to count occurrences of a letter.
